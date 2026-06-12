@@ -1,3 +1,0 @@
-◇ injected env (5) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
-◇ injected env (0) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
-Servidor corriendo en http://localhost:3001
