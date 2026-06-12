@@ -1,0 +1,23 @@
+# Dependencias
+node_modules/
+
+# Vite
+.vite/
+dist/
+
+# Logs
+*.log
+server.log
+
+# Variables de entorno
+.env
+.env.local
+
+# Claude
+.claude/settings.local.json
+
+# Windows
+Thumbs.db
+
+# Mac
+.DS_Store
